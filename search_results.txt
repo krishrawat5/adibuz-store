@@ -1,0 +1,57 @@
+﻿404.html | Line 241 | <div class="copys-text"><i class="twi-copyright"></i>Copyright WpSmasher 2020 | All Rights Reserved</div>
+about.html | Line 148 | Sed id interdum urna. Nam ac elit a ante commodo tristique. condimentum vehicula a hendrerit ac nisi. hendrerit ac nisi Lorem ipsum dolor sit amet Vestibulum imperdiet nibh vel magna lacinia ultrices. Sed id interdum urna.
+about.html | Line 151 | Nullam lacinia faucibus risus, a euismod lorem tincidunt id. Donec maximus placerat tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse faucibus sed dolor eget posuere.Sed id interdum urna. Nam ac elit a ante commodo tristique. Duis lacus urna, condimentum a vehicula a, hendrerit ac nisi Lorem ipsum dolor sit amet.
+about.html | Line 309 | <div class="copys-text"><i class="twi-copyright"></i>Copyright WpSmasher 2020 | All Rights Reserved</div>
+blog-details.html | Line 168 | sim efficitur, sapien lorem porta lorem.
+blog-details.html | Line 171 | Morbi mollis vestibulum sollicitudin. Nunc in eros a justo facilisis rutrum. Aenean id ullamcorper libero. Vestibulum imperdiet nibh vel magna lacinia ultrices. Sed id interdum urna. Nam ac elit a ante commodo tristique. Duis lacus urna, condimentum a vehicula a, hendrerit ac nisi Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vulputate, tortor nec commodo ultricies, lectus nisl facilisis enim, vitae viverra urna nulla sed turpis. Nullam lacinia faucibus risus.
+blog-details.html | Line 174 | Donec gravida malesuada lacus, eget tristique Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vulputate, tortor nec commodo ultricies, lectus nisl facilisis enim, vitae viverra urna nulla sed turpis. Nullam lacinia faucibus risus, a euismod lorem tincidunt id. Donec maximus placerat tempor.
+blog-details.html | Line 197 | Proin vitae dignissim enim, a iaculis sapien. nisi et dignissim efficitur, sapien lorem  et tristique nulla lectus fauc-ibus est Pellentesque dapibus
+blog-details.html | Line 209 | Proin vitae dignissim enim, a iaculis sapien. nisi et dignissim efficitur, sapien lorem  et tristique nulla lectus faucibus est Pellentesque dapibus
+blog-details.html | Line 223 | Proin vitae dignissim enim, a iaculis sapien. nisi et dignissim efficitur, sapien lorem  et tristique nulla lectus fauc-ibus est Pellentesque dapibus
+blog-details.html | Line 341 | <div class="copys-text"><i class="twi-copyright"></i>Copyright WpSmasher 2020 | All Rights Reserved</div>
+blog-fullwidth.html | Line 186 | Ut enim ad minim venium eos qui odit lorem telica comuo fira mende
+blog-fullwidth.html | Line 234 | Ut enim ad minim venium eos qui odit lorem telica comuo fira mende
+blog-fullwidth.html | Line 335 | <div class="copys-text"><i class="twi-copyright"></i>Copyright WpSmasher 2020 | All Rights Reserved</div>
+blog-left-sidebar.html | Line 237 | Ut enim ad minim venium eos qui odit lorem telica comuo fira mende
+blog-left-sidebar.html | Line 285 | Ut enim ad minim venium eos qui odit lorem telica comuo fira mende
+blog-left-sidebar.html | Line 388 | <div class="copys-text"><i class="twi-copyright"></i>Copyright WpSmasher 2020 | All Rights Reserved</div>
+blog-right-sidebar.html | Line 188 | Ut enim ad minim venium eos qui odit lorem telica comuo fira mende
+blog-right-sidebar.html | Line 236 | Ut enim ad minim venium eos qui odit lorem telica comuo fira mende
+blog-right-sidebar.html | Line 388 | <div class="copys-text"><i class="twi-copyright"></i>Copyright WpSmasher 2020 | All Rights Reserved</div>
+cart.html | Line 358 | <div class="copys-text"><i class="twi-copyright"></i>Copyright WpSmasher 2020 | All Rights Reserved</div>
+checkout.html | Line 302 | Aenean id ullamcorper libero. Vestibulum impnibh. Lorem  ullamcorper volutpat. Vestibulum lacinia risus. Etiam sagittis ullamcorper volutpat.
+checkout.html | Line 311 | Exam id ullamcorper libero. Vestibulum impnibh. Lorem  ullamcorper volutpat. Vestibulum lacinia risus. Etiam sagittis ullamcorper volutpat.
+checkout.html | Line 320 | Vestibulum impnibh. Lorem  ullamcorper volutpat. Vestibulum lacinia risus. Etiam sagittis ullamcorper volutpat.
+checkout.html | Line 420 | <div class="copys-text"><i class="twi-copyright"></i>Copyright WpSmasher 2020 | All Rights Reserved</div>
+contact.html | Line 292 | <div class="copys-text"><i class="twi-copyright"></i>Copyright WpSmasher 2020 | All Rights Reserved</div>
+index.html | Line 202 | style="z-index: 5; white-space: normal; text-transform: none;">Lorem ipsum dolor sit amet, consectetur adipisicin
+index.html | Line 317 | style="z-index: 5; white-space: normal; text-transform: none;">Lorem ipsum dolor sit amet, consectetur adipisicin
+index.html | Line 432 | style="z-index: 5; white-space: normal; text-transform: none;">Lorem ipsum dolor sit amet, consectetur adipisicin
+index.html | Line 547 | style="z-index: 5; white-space: normal; text-transform: none;">Lorem ipsum dolor sit amet, consectetur adipisicin
+index.html | Line 2191 | odit lorem telica comuo fira mende
+index.html | Line 2225 | odit lorem telica comuo fira mende
+index.html | Line 2373 | <div class="copys-text"><i class="twi-copyright"></i>Copyright WpSmasher 2020 | All Rights Reserved</div>
+index2.html | Line 144 | <p>2020 © <a href="#">WpSmasher</a> All rights reserved.</p>
+index2.html | Line 279 | Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+index2.html | Line 469 | Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+index2.html | Line 659 | Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+index2.html | Line 849 | Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+index2.html | Line 2014 | <div class="copys-text"><i class="twi-copyright"></i>Copyright WpSmasher 2020 | All Rights Reserved</div>
+login-register.html | Line 303 | <div class="copys-text"><i class="twi-copyright"></i>Copyright WpSmasher 2020 | All Rights Reserved</div>
+newsletter.html | Line 116 | Lorem text for writing something on the newsletter popup text that you will get a discount if you fill.
+newsletter.html | Line 223 | style="z-index: 5; white-space: normal; text-transform: none;">Lorem ipsum dolor sit amet, consectetur adipisicin
+newsletter.html | Line 338 | style="z-index: 5; white-space: normal; text-transform: none;">Lorem ipsum dolor sit amet, consectetur adipisicin
+newsletter.html | Line 453 | style="z-index: 5; white-space: normal; text-transform: none;">Lorem ipsum dolor sit amet, consectetur adipisicin
+newsletter.html | Line 568 | style="z-index: 5; white-space: normal; text-transform: none;">Lorem ipsum dolor sit amet, consectetur adipisicin
+newsletter.html | Line 2212 | odit lorem telica comuo fira mende
+newsletter.html | Line 2246 | odit lorem telica comuo fira mende
+newsletter.html | Line 2394 | <div class="copys-text"><i class="twi-copyright"></i>Copyright WpSmasher 2020 | All Rights Reserved</div>
+shop-fullwidth.html | Line 539 | <div class="copys-text"><i class="twi-copyright"></i>Copyright WpSmasher 2020 | All Rights Reserved</div>
+shop-left-sidebar.html | Line 486 | <div class="copys-text"><i class="twi-copyright"></i>Copyright WpSmasher 2020 | All Rights Reserved</div>
+shop-right-sidebar.html | Line 486 | <div class="copys-text"><i class="twi-copyright"></i>Copyright WpSmasher 2020 | All Rights Reserved</div>
+single-product.html | Line 192 | Sed id interdum urna. Nam ac elit a ante commodo tristique. tum vehicula a hendrerit ac nisi. hendrerit ac nisi Lorem ipsum dolor sit perdiet nibh vel magna lacinia ultrices. Sed id interdum urna.
+single-product.html | Line 256 | Sed id interdum urna. Nam ac elit a ante commodo tristique. condimentum vehicula a hendrerit ac nisi. hendrerit ac nisi Lorem ipsum dolor sit amet Vestibulum imperdiet nibh vel magna lacinia ultrices. Sed id interdum urna.
+single-product.html | Line 259 | Nullam lacinia faucibus risus, a euismod lorem tincidunt id. Donec maximus placerat tempor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse faucibus sed dolor eget posuere.Sed id interdum urna. Nam ac elit a ante commodo tristique. Duis lacus urna, condimentum a vehicula a, hendrerit ac nisi Lorem ipsum dolor sit amet.
+single-product.html | Line 273 | sapien lorem  et tristique nulla lectus fauc-ibus est Pellentesque dapibus
+single-product.html | Line 539 | <div class="copys-text"><i class="twi-copyright"></i>Copyright WpSmasher 2020 | All Rights Reserved</div>
+wishlist.html | Line 347 | <div class="copys-text"><i class="twi-copyright"></i>Copyright WpSmasher 2020 | All Rights Reserved</div>

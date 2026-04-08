@@ -1,0 +1,40 @@
+﻿404.html L4: <title>Goru – Ecommerce HTML5 Responsive Template</title>
+404.html L210: Email: info@goru.com
+about.html L4: <title>Goru – Ecommerce HTML5 Responsive Template</title>
+about.html L278: Email: info@goru.com
+blog-details.html L4: <title>Goru – Ecommerce HTML5 Responsive Template</title>
+blog-details.html L310: Email: info@goru.com
+blog-fullwidth.html L4: <title>Goru – Ecommerce HTML5 Responsive Template</title>
+blog-fullwidth.html L304: Email: info@goru.com
+blog-left-sidebar.html L4: <title>Goru – Ecommerce HTML5 Responsive Template</title>
+blog-left-sidebar.html L357: Email: info@goru.com
+blog-right-sidebar.html L4: <title>Goru – Ecommerce HTML5 Responsive Template</title>
+blog-right-sidebar.html L357: Email: info@goru.com
+cart.html L4: <title>Goru – Ecommerce HTML5 Responsive Template</title>
+cart.html L327: Email: info@goru.com
+checkout.html L4: <title>Goru – Ecommerce HTML5 Responsive Template</title>
+checkout.html L389: Email: info@goru.com
+contact.html L4: <title>Goru – Ecommerce HTML5 Responsive Template</title>
+contact.html L166: <div class="goru_map grayscale">
+contact.html L197: <img src="assets/images/ajax.gif" alt="" class="goru_loader"/>
+contact.html L198: <div class="goru_con_message"></div>
+contact.html L261: Email: info@goru.com
+index.html L4: <title>Goru – Ecommerce HTML5 Responsive Template</title>
+index.html L2334: Email: info@goru.com
+index2.html L4: <title>Goru – Ecommerce HTML5 Responsive Template</title>
+index2.html L79: Goru
+index2.html L1983: Email: info@goru.com
+login-register.html L4: <title>Goru – Ecommerce HTML5 Responsive Template</title>
+login-register.html L272: Email: info@goru.com
+newsletter.html L4: <title>Goru – Ecommerce HTML5 Responsive Template</title>
+newsletter.html L2355: Email: info@goru.com
+shop-fullwidth.html L4: <title>Goru – Ecommerce HTML5 Responsive Template</title>
+shop-fullwidth.html L508: Email: info@goru.com
+shop-left-sidebar.html L4: <title>Goru – Ecommerce HTML5 Responsive Template</title>
+shop-left-sidebar.html L455: Email: info@goru.com
+shop-right-sidebar.html L4: <title>Goru – Ecommerce HTML5 Responsive Template</title>
+shop-right-sidebar.html L455: Email: info@goru.com
+single-product.html L4: <title>Goru – Ecommerce HTML5 Responsive Template</title>
+single-product.html L508: Email: info@goru.com
+wishlist.html L4: <title>Goru – Ecommerce HTML5 Responsive Template</title>
+wishlist.html L316: Email: info@goru.com
